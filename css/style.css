@@ -1,0 +1,21 @@
+
+*{
+    margin: 0;
+    padding: 0;
+}
+
+body {
+    text-align: center;
+    width: 90%;
+    padding: 85px;
+    height: 500px;
+}
+img {
+    width: 450px;
+    height: 300px;
+    cursor: pointer;
+}
+
+h1{
+    text-align: center;
+}
